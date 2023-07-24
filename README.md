@@ -1,3 +1,5 @@
+Its just openpilot, but when you cant record and upload data from the external camera.
+
 ![](https://i.imgur.com/b0ZyIx5.jpg)
 
 Table of Contents
